@@ -2,7 +2,7 @@
 
 ## :question: What is this Repository about?
 
-- This repo contains example code of **Hopw to send a WhatsApp messages using Python**, including a sample on how to send WhatsApp messages on LambdaTest Cloud platform.
+- This repo contains example code of **How to send a WhatsApp messages using Python**, including a sample on how to send WhatsApp messages on LambdaTest Cloud platform.
 - This project uses Pytest framework to run the tests.
 
 ## :question: More about Sending WhatsApp Messages...
